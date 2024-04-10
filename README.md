@@ -4,7 +4,7 @@
 
 *To run this macro, you need to copy and paste this code into your module. By tapping alt + F11 you can open VBA.
 Once this is done, save it, close it and connect each sub with each button. The reason I did it like this was because Jithub Syst doesn't like to put my macro there.
-It's really simple. Trust me! and good lucj!*
+It's really simple. Trust me! and good luck!*
 
 *The data winequality-red.cvs was obtained from https://archive.ics.uci.edu/dataset/186/wine+quality*
 
